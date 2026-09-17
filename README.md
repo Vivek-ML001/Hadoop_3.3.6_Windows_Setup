@@ -472,6 +472,8 @@ jps
 ```
 
 ---
+---
+---
 
 # 19. HDFS file management commands
 
