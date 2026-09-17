@@ -25,6 +25,12 @@ Download the Hadoop 3.3.6 binary distribution from an Apache mirror.
 Community repository:
 https://github.com/cdarlint/winutils
 
+then go at the step of 7 and required file download in Hadoop 3.3.6 file section :
+```text
+winutils.exe
+hadoop.dll
+```
+
 For Windows Hadoop 3.3.6, use the matching `hadoop-3.3.6` directory if your setup requires Windows native binaries.
 
 **Important:** These Windows binaries are community-provided, not part of the official Apache Hadoop binary distribution. Do not mix binaries from different Hadoop versions.
