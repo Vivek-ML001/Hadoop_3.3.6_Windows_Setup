@@ -7,8 +7,8 @@ A beginner-friendly guide for setting up **Java 8 + Apache Hadoop 3.3.6 on Windo
 ## 1. Download links
 
 ### Java 8
-Eclipse Temurin OpenJDK 8:
-https://adoptium.net/temurin/releases/?version=8
+Java SE 8 Archive Downloads:
+https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html
 
 Choose Windows + x64 + JDK + Java 8.
 
